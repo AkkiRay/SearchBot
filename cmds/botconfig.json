@@ -1,9 +1,9 @@
 {
-    "token":"NTgwNjg3MTU3NTQzNTY3Mzgx.XPFxOg.LKcwYVWDlacWH1gvwTV_kn3WODY",
-    "prefix":"!",
-    "Prem":"587629560976244749",
-    "Coder":"587629599979208745",
+    "token":"Your Token Here",
+    "prefix":"your prefix",
+    "Prem":"RoleID",
+    "Coder":"RoleID",
     "Friend":"roleid_place",
-    "Moder":"587629656287477774",
-    "Blocked":"588056954983940106"
+    "Moder":"RoleID",
+    "Blocked":"RoleID"
 }
